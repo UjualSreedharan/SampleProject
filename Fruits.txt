@@ -5,3 +5,4 @@ banana
 watermelon
 Jackfruit
 dragonfruit
+lichi
